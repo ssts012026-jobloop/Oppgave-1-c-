@@ -1,0 +1,15 @@
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\Project.AssemblyInfoInputs.cache
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\Project.AssemblyInfo.cs
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\Project.csproj.CoreCompileInputs.cache
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\Project.sourcelink.json
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\bin\Debug\net10.0\Project.exe
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\bin\Debug\net10.0\Project.deps.json
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\bin\Debug\net10.0\Project.runtimeconfig.json
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\bin\Debug\net10.0\Project.dll
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\bin\Debug\net10.0\Project.pdb
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\Project.dll
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\refint\Project.dll
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\Project.pdb
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\Project.genruntimeconfig.cache
+C:\Kodehode prosjekter\C# folder\-- projects\Oppgave 1 c#\obj\Debug\net10.0\ref\Project.dll
